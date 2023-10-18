@@ -15,4 +15,4 @@ Software
 - Python 3.11.1
 - numba 0.58.0
 
-On my sytem (as above) the best time i got was 950ns
+On my sytem (as above) the best time i got was 440ns
