@@ -12,7 +12,7 @@ Hardware
 
 Software
 - Win 11 22H2
-- Python 3.11.1
+- Python 3.11.6
 - numba 0.58.0
 
 On my sytem (as above) the best time i got was 440ns
